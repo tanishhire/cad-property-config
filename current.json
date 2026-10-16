@@ -1,5 +1,5 @@
 {
-  "release": "002",
+  "release": "test-invalid",
   "schemaVersion": 1,
   "package": "releases/002/configuration.zip"
 }
