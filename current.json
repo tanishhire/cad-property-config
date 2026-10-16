@@ -1,5 +1,5 @@
 {
-	"release" : "001",
-	"schemaVersion" : 1,
-	"package" : "releases/001/configuration.zip"
+  "release": "002",
+  "schemaVersion": 1,
+  "package": "releases/002/configuration.zip"
 }
