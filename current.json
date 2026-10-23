@@ -1,5 +1,5 @@
 {
   "release": "schema-4-test-manifest",
-  "schemaVersion": 3,
+  "schemaVersion": 4,
   "package": "releases/schema-4-test-manifest/configuration.zip"
 }
