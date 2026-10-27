@@ -12491,17 +12491,17 @@
                         "separatorBefore": ";"
                     },
                     {
+                        "field": "OPERATOR_MOUNTING_TYPE",
+                        "mode": "raw",
+                        "separatorBefore": ";"
+                    },
+                    {
                         "field": "MFG_PROCESS",
                         "mode": "raw",
                         "separatorBefore": ";"
                     },
                     {
                         "field": "TYPE",
-                        "mode": "raw",
-                        "separatorBefore": ";"
-                    },
-                    {
-                        "field": "OPERATOR_MOUNTING_TYPE",
                         "mode": "raw",
                         "separatorBefore": ";"
                     },
@@ -12528,17 +12528,17 @@
                         "separatorBefore": " "
                     },
                     {
+                        "field": "OPERATOR_MOUNTING_TYPE",
+                        "mode": "short",
+                        "separatorBefore": " "
+                    },
+                    {
                         "field": "MFG_PROCESS",
                         "mode": "short",
                         "separatorBefore": " "
                     },
                     {
                         "field": "TYPE",
-                        "mode": "short",
-                        "separatorBefore": " "
-                    },
-                    {
-                        "field": "OPERATOR_MOUNTING_TYPE",
                         "mode": "short",
                         "separatorBefore": " "
                     }
@@ -12564,21 +12564,21 @@
                 ],
                 "Title 3": [
                     {
-                        "field": "MFG_PROCESS",
+                        "field": "OPERATOR_MOUNTING_TYPE",
                         "mode": "title",
                         "separatorBefore": ""
                     }
                 ],
                 "Title 4": [
                     {
-                        "field": "TYPE",
+                        "field": "MFG_PROCESS",
                         "mode": "title",
                         "separatorBefore": ""
                     }
                 ],
                 "Title 5": [
                     {
-                        "field": "OPERATOR_MOUNTING_TYPE",
+                        "field": "TYPE",
                         "mode": "title",
                         "separatorBefore": ""
                     }
